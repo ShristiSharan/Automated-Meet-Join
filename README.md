@@ -1,4 +1,4 @@
-# Meet-Join
+# Automated-Meet-Join
 
 ## How To Use this Repo
 
