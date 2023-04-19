@@ -9,7 +9,7 @@
  2. Login/Signup to your google account from which you want to join meet
  3. Clone this repository Using command:
   ```
-  gh repo clone divyansh0908/MeetJoin
+  gh repo clone ShristiSharan/Automated-Meet-Join
   ```
   4. Go to location where this repository exist.
   5. Open command window and run command
